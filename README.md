@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**dtyjno/dtyjno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,3 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->🎉
 ![mona-whisper](https://github.com/dtyjno/dtyjno/assets/148627486/1e0ccab9-c2c9-4235-821e-582387abdd05)
+
+<!--
+**dtyjno/dtyjno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
